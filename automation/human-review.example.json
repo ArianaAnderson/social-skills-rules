@@ -1,0 +1,13 @@
+{
+  "_instructions": "Example only. Keep the real completed review register private. These fields require explicit human decisions, not inferred or automatic approval.",
+  "episode_02": {
+    "claims_review": "pending",
+    "artwork_permission": "pending",
+    "first_video_rights_check": "pending",
+    "owner_audience_setting": null
+  },
+  "static_02_a": {
+    "claims_review": "pending",
+    "artwork_permission": "pending"
+  }
+}
